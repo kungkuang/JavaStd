@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DBUtil/DBUtil.iml" filepath="$PROJECT_DIR$/DBUtil/DBUtil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DBUtilimp/DBUtilimp.iml" filepath="$PROJECT_DIR$/DBUtilimp/DBUtilimp.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaStd.iml" filepath="$PROJECT_DIR$/JavaStd.iml" />
     </modules>
